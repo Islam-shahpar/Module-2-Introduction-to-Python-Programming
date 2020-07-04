@@ -1,8 +1,23 @@
 1. Introduction
+    - Use print function to print out the result of any operation.
 
 2. Arithmetic Operators
+    - "+" , "-", "*", "/"
+    - "%" : Modulo Operator for remainder
+    - "**" : Exponential Operator for power (2**3 = 8)
+    - "//" : Integer Division, to floor up the fraction
+    - "^" : Caret Operator, for XOR operation
+    - The Conventional Order of Operation is PEMDAS in Python
 
 3. Variables and Assignment Operators
+    - Variable I : How to declare Variable
+    - Variable II : 
+        - Ways to declare Variable
+        - Convention : Use descriptive and snake case (my_name = "Shahpar")
+        - Can't use reserved words / built-in identifiers as variable name 
+    - Assignment Operators :
+        - my_age = my_age + today could be written as my_age += today
+        - "-=", "*=", "/=" 
 
 4. Integers and floats
 
