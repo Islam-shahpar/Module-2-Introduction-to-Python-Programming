@@ -20,8 +20,16 @@
         - "-=", "*=", "/=" 
 
 4. Integers and floats
+    - Integers : Whole Number
+    - float : Numbers with decimal
+    - "type" function will provide the type of data
+    - 2 types of error : Exceptions and Syntax
 
 5. Booleans, Comparison Operators
+    - Boolean Values : True/false, 1/0
+    - Comparison Operators : <,>,<=,>=,==,!=
+    - Logical Operators : and, or, not
+    - len() function to find out the lengths of String or objects
 
 6. Strings
 
